@@ -1,2 +1,2 @@
 # Ejercicio4-marco-estructuraDedatos
-Marco5x15
+Marco de una matriz 5x15
